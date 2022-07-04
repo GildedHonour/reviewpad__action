@@ -22,4 +22,4 @@ inputs:
     required: false
 runs:
   using: "docker"
-  image: "docker://reviewpad/action:bbca0de5de0a442b59e92aa455c9141d4175d2bf"
+  image: "docker://reviewpad/action:1390b10ac29e0a574d6e8c6029c37740acf4b158"
